@@ -16,3 +16,15 @@ Currency: Indian Rupees (INR)
 Time Period: FY 2019 – 2021
 Scope: Global — covers markets across Asia, Europe, America, and Oceania
 Total 2021 Revenue: ₹598.9 Million
+
+🛠️ Skills & Techniques Used
+
+Data Modeling — Built relationships across customers, markets, regions, and time periods for flexible analysis.
+DAX Measures — Custom measures for net sales, YoY growth, and target variance.
+ETL with Power Query — Cleaned and transformed raw data before loading.
+
+📌 Key Insights
+
+1. Amazon and AtliQ Exclusive are among the top-performing customers in 2021.
+2. India leads in absolute net sales volume at ₹161M+ in 2021.
+3. All tracked markets fell short of their 2021 sales targets, with Poland showing the highest negative variance (-18.1%)
